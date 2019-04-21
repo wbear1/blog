@@ -1,1 +1,4 @@
 - [RocketMQ的设计与实现](https://github.com/wbear1/rocketmq_blog)
+- [Spark浅谈](https://github.com/wbear1/spark_blog)
+- [Flume分析](https://github.com/wbear1/flume_blog)
+- [JVM相关](https://github.com/wbear1/jvm_blog)
